@@ -1,0 +1,11 @@
+fab_report_project/
+├── main.py
+├── config.py
+├── preprocess.py
+├── export_excel.py
+├── analyze.py
+├── data/
+│   └── raw/
+│       ├── fake_eds_dataset.csv
+│       └── fake_fab_dataset.csv
+└── PythonSave/
