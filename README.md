@@ -1,14 +1,14 @@
-# data-analysis1 (Fab data analysis project)
-1. Work Purpose
+## Fab data analysis project
+#1. Work Purpose
 - Analyze the relationship between EDS data and FAB data, and suggest a direction for yield improvement and process optimization.
 
-2. Methods
+#2. Methods
 - Imports EDS and FAB data stored on the company server
 - Conducts trend analysis for each EDS item
 - Analyzes inter-item relationships
 - Applies basic machine learning models using Scikit-learn
 
-3. Code Structure
+#3. Code Structure
 fab_report_project/
 ├── main.py
 ├── config.py
@@ -21,7 +21,7 @@ fab_report_project/
 │       └── fake_fab_dataset.csv
 └── PythonSave/
 
-4. Main Results (saved as the excel file (Tables) and HTML (Graphs)
+#4. Main Results (saved as the excel file (Tables) and HTML (Graphs)
  1) Trend analysis of major EDS items such as Bitline(BL) Resistance (RBL) and Capacitance (CBL)
 
  2) Correlation analysis between RBL and CBL
@@ -34,7 +34,7 @@ fab_report_project/
   This suggests that RBL cannot be fully explained by FAB data alone.
   Additional analysis such as vertical structural review (TEM) is recommended.
  
-5. Version
+#5. Version
    - python 3.12.7
    - pandas 2.2.2
    - numpy 1.26.4
