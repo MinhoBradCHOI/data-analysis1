@@ -37,7 +37,7 @@ Analyze the relationship between **EDS data** and **FAB data**, and suggest a di
 [LOT3_W01_W02_W03_20250617.xlsx](https://github.com/user-attachments/files/20774410/LOT3_W01_W02_W03_20250617.xlsx)
 
 - HTML (`.html`) for interactive graphs
-👉 [View RBL vs CBL Plot (HTML)](./rbl_vs_cbl_plot.html)
+👉 [Open Interactive Graph (HTML)](https://raw.githubusercontent.com/MinhoBradCHOI/data-analysis1/main/plot_RBL_CBL_separated.html)
 ### ✅ Key Outcomes
 
 1. **Trend analysis** of major EDS items:  
