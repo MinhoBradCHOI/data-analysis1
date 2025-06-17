@@ -16,7 +16,7 @@ fab_report_project/
 ├── export_excel.py
 ├── analyze.py
 ├── data/
-│   └── raw/ (from server)
+│   └── raw/ (server data in reality)
 │       ├── fake_eds_dataset.csv
 │       └── fake_fab_dataset.csv
 └── PythonSave/
