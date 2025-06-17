@@ -8,7 +8,7 @@
 - Analyzes inter-item relationships
 - Applies basic machine learning models using Scikit-learn
 
-## 📁 Code Structure
+```## 📁 Code Structure
 fab_report_project/
 ├── main.py
 ├── config.py
@@ -20,7 +20,7 @@ fab_report_project/
 │       ├── fake_eds_dataset.csv
 │       └── fake_fab_dataset.csv
 └── PythonSave/
-
+```
 #4. Main Results (saved as the excel file (Tables) and HTML (Graphs)
  1) Trend analysis of major EDS items such as Bitline(BL) Resistance (RBL) and Capacitance (CBL)
 
