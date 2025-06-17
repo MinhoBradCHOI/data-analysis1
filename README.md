@@ -34,7 +34,7 @@ Analyze the relationship between **EDS data** and **FAB data**, and suggest a di
 ## #4. Main Results  
 📁 **Saved as:**  
 - Excel (`.xlsx`) for tables
-[LOT3_W01_W02_W03_20250617.xlsx](https://github.com/user-attachments/files/20774328/LOT3_W01_W02_W03_20250617.xlsx)
+[LOT3_W01_W02_W03_20250617.xlsx](https://github.com/user-attachments/files/20774410/LOT3_W01_W02_W03_20250617.xlsx)
 
 - HTML (`.html`) for interactive graphs
 
@@ -53,6 +53,11 @@ Analyze the relationship between **EDS data** and **FAB data**, and suggest a di
    - However, the **R² between RBL (EDS)** and **GBL CD (FAB data)** is low  
    → This indicates that **RBL cannot be fully explained by FAB data alone**  
    → Further analysis using **vertical structural review (e.g., TEM)** is recommended
+![RBLvs tTKOUT](https://github.com/user-attachments/assets/42b0c3b0-f55b-4c78-a261-95d936c781fd)
+![CBLvs tTKOUT](https://github.com/user-attachments/assets/cef3d79b-488f-46b5-b20c-f32b365bda30)
+![RBLvsCBL](https://github.com/user-attachments/assets/09f05967-3e80-4326-83ea-3443b4ffef44)
+![RBLvsGBL_CD](https://github.com/user-attachments/assets/cfe947c7-4551-4d57-a93c-6125312af13a)
+
 ---
 
 ## #5. Version Info
