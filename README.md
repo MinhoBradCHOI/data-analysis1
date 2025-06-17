@@ -8,7 +8,7 @@
 - Analyzes inter-item relationships
 - Applies basic machine learning models using Scikit-learn
 
-#3. Code Structure
+```#3. Code Structure
 fab_report_project/
 ├── main.py
 ├── config.py
