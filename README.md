@@ -40,15 +40,15 @@ Analyze the relationship between **EDS data** and **FAB data**, and suggest a di
 
 ### ✅ Key Outcomes
 
-1. **Trend analysis** of major EDS items:  
+i) **Trend analysis** of major EDS items:  
    - Bitline Resistance (**1.RBL**)  
    - Bitline Capacitance (**2.CBL**)
 
-2. **3.Correlation analysis** between **RBL** and **CBL**
+ii) **3.Correlation analysis** between **RBL** and **CBL**
 
-3. **4.Exploratory analysis** of **RBL (EDS)** and **BL(Bit-line)-related FAB data**
+iii) **4.Exploratory analysis** of **RBL (EDS)** and **BL(Bit-line)-related FAB data**
 
-4. **Conclusion & Recommendation**:
+iv) **Conclusion & Recommendation**:
    - Strong correlation observed between **RBL** and **CBL** in EDS data
    - However, the **R² between RBL (EDS)** and **GBL CD (FAB data)** is low  
    → This indicates that **RBL cannot be fully explained by FAB data alone**  
