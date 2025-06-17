@@ -1,4 +1,4 @@
-# 📊 Fab Data Analysis Project
+# 📊 Fab&EDS Data Analysis Project
 
 ## #1. Work Purpose
 
