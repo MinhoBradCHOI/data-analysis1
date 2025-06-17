@@ -36,8 +36,7 @@ Analyze the relationship between **EDS data** and **FAB data**, and suggest a di
 - Excel (`.xlsx`) for tables
 [LOT3_W01_W02_W03_20250617.xlsx](https://github.com/user-attachments/files/20774410/LOT3_W01_W02_W03_20250617.xlsx)
 
-- HTML (`.html`) for interactive graphs
-👉 [Open HTML Graph in Browser](https://htmlpreview.github.io/?https://raw.githubusercontent.com/MinhoBradCHOI/data-analysis1/main/plot_RBL_CBL_separated.html)
+- HTML (`.html`) for interactive graphs (see below for preview)
 
 ### ✅ Key Outcomes
 
