@@ -16,7 +16,8 @@ Analyze the relationship between **EDS data** and **FAB data**, and suggest a di
 ---
 
 ## #3. 📁 Code Structure
-```fab_report_project/
+```
+fab_report_project/
 ├── main.py
 ├── config.py
 ├── preprocess.py
