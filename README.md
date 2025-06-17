@@ -46,7 +46,7 @@ Analyze the relationship between **EDS data** and **FAB data**, and suggest a di
 
 2. **Correlation analysis** between **RBL** and **CBL**
 
-3. **Exploratory analysis** of **RBL (EDS)** and **BL-related FAB data**
+3. **Exploratory analysis** of **RBL (EDS)** and **BL(Bit-line)-related FAB data**
 
 4. **Conclusion & Recommendation**:
    - Strong correlation observed between **RBL** and **CBL** in EDS data
